@@ -10,7 +10,6 @@
 //
 
 #include <iostream>
-using namespace std;
 
 unsigned int worstCasePullsforNPairs(unsigned int numPairs)
 {
